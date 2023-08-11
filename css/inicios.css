@@ -117,10 +117,11 @@
 } 
 
 header{
-    color: #70112D;  
+    color: #fff;  
     font-size: 30px;
     text-align: center;
-    padding: 10px 0 30px 0;
+    padding: 10px 0 30px 0; 
+    text-shadow: -2px -2px 1px #70112D;
 }
 
 .input-field{
